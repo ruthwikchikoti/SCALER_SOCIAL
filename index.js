@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   post_con.addEventListener('click', function (e) {
     if (e.target.alt === 'delete') {
-     
+      e.target.src = "assets/redd.png";
 
       if (confirm("Are you sure you want to delete this post?")) {
         let postElement = e.target.closest('.main-post');
