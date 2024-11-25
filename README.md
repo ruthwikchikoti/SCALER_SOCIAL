@@ -1,3 +1,1 @@
-# webdev
- 
- https://ruthwikchikoti.github.io/webdev/
+https://ruthwikchikoti.github.io/SCALER_SOCIAL/
